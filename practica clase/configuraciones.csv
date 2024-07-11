@@ -1,0 +1,5 @@
+Dimensiones,Area,Volumen
+"{'x_range': (-5, 5), 'y_range': (-5, 5), 'pendiente': -10.0, 'tipo_superficie': 'Plano'}",100.0,0.0
+"{'x_range': (-5, 5), 'y_range': (-5, 5), 'pendiente': -10.0, 'tipo_superficie': 'Plano'}",100.0,0.0
+"{'x_range': (-5, 5), 'y_range': (-5, 5), 'radio': 3.0, 'tipo_superficie': 'Esfera'}",113.09733552923257,113.09733552923254
+"{'x_range': (-5, 5), 'y_range': (-5, 5), 'a': 6.0, 'tipo_superficie': 'Cono'}",133.286488144751,376.99111843077515
